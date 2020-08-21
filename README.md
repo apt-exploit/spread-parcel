@@ -12,7 +12,7 @@ SPREAD PARCEL requires [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.co
 When you run npm run start it will open a port at [http://localhost:4000/](http://localhost:4000/)
 
 ```sh
-$ cd spread-parcel
+$ cd spread-parcel-master
 $ yarn
 $ node run start
 ```
