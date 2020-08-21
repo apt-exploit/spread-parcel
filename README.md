@@ -22,3 +22,21 @@ $ node run start
 - [Framework CSS Tailwind](https://tailwindcss.com/)
 - [Transpiler Babel JS](https://babeljs.io/)
 - [Fix problems ESLint](https://eslint.org/)
+
+## Recommendations
+
+> These are some of the extensions that I am using to complete the workbench!
+- [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+## Documentation
+
+> These are the links you use to create this environment!
+- [Yarn](https://yarnpkg.com/getting-started/install)
+- [Parcel](https://parceljs.org/getting_started.html)
+- [Tailwindcss](https://tailwindcss.com/docs/installation)
+
+
+
