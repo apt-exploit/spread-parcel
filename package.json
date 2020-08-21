@@ -5,6 +5,7 @@
   "main": "index.js",
   "keywords": [],
   "author": "Cesar Dev",
+  "homepage": "https://github.com/apt-exploit/spread-parcel#readme",
   "license": "ISC",
   "scripts": {
     "clean": "rm -rf public",
