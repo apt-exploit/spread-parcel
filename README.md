@@ -1,6 +1,8 @@
 # spread-parcel
 Package created with the initiative of packaging an interface environment.
 
+![Parcel](https://user-images.githubusercontent.com/19409/31321658-f6aed0f2-ac3d-11e7-8100-1587e676e0ec.png)
+
 ### Requirements
 
 SPREAD PARCEL requires [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.com/) and [Parcel](https://parceljs.org/) to run.
