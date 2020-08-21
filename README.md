@@ -7,8 +7,6 @@ SPREAD PARCEL requires [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.co
 
 ### Installation
 
-
-
 When you run npm run start it will open a port at [http://localhost:4000/](http://localhost:4000/)
 
 ```sh
@@ -16,3 +14,9 @@ $ cd spread-parcel
 $ yarn
 $ node run start
 ```
+
+## Inside the package
+
+- [Framework CSS Tailwind](https://tailwindcss.com/)
+- [Transpiler Babel JS](https://babeljs.io/)
+- [Fix problems ESLint](https://eslint.org/)
